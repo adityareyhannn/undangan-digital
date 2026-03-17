@@ -2,8 +2,7 @@
 
 Template undangan pernikahan digital modern & minimalis berbasis HTML, CSS, dan JavaScript murni. Tanpa framework, ringan, dan mudah dikustomisasi.
 
-🌐 **Live Demo:** [https://USERNAME.github.io/undangan-digital](https://USERNAME.github.io/undangan-digital)
-
+🌐 **Live Demo:** https://adityareyhannn.github.io/undangan-digital/
 ---
 
 ## ✨ Fitur
@@ -14,7 +13,6 @@ Template undangan pernikahan digital modern & minimalis berbasis HTML, CSS, dan 
 - Jadwal acara (Akad & Resepsi)
 - Galeri foto pasangan
 - Integrasi Google Maps lokasi
-- Form ucapan & konfirmasi kehadiran
 - Animasi scroll reveal
 - Responsive mobile-friendly
 
@@ -42,14 +40,6 @@ Taruh foto di folder `images/` lalu ubah bagian galeri:
 ```html
 <div class="gal-item" style="background-image:url('images/foto1.jpg')"></div>
 ```
-
----
-
-## 🚀 Deploy ke GitHub Pages
-
-1. Push ke GitHub
-2. Settings → Pages → Branch: main → Save
-3. Live di `https://USERNAME.github.io/undangan-digital`
 
 ---
 
